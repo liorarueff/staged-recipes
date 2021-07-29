@@ -4,7 +4,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/p/pytorchnewtest/pytorchnewtest-1.0.tar.gz
-  sha256: 2b3a0c466fb4a1014ea131c2b8ea7c519f9278eba73d6fcb361b7bdb4fd494e9
+  sha256: 01bc4bbe45206a3715dcaaba13b7acb72187dca67dfd685838af3b962f42eca3
 
 build:
   number: 0
